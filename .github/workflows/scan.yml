@@ -1,0 +1,37 @@
+# 트렌드 스캔: 하루 네 번 모아서 docs/ 에 기록한다. 읽는 쪽은 사람(또는 Claude).
+name: trend-scan
+
+on:
+  schedule:
+    - cron: "0 22 * * *"   # 07:00 KST
+    - cron: "0 3 * * *"    # 12:00 KST
+    - cron: "0 9 * * *"    # 18:00 KST
+    - cron: "0 14 * * *"   # 23:00 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trend-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - run: python scripts/scan.py
+      - name: 기록
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || (git commit -m "스캔 $(TZ=Asia/Seoul date +'%Y-%m-%d %H:%M')" && git push)
