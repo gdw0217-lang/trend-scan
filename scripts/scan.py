@@ -43,9 +43,14 @@ def google_trends():
 
 
 def namu_recent():
-    r = requests.get("https://namu.wiki/sidebar.json", headers=UA, timeout=20)
-    r.raise_for_status()
-    return [{"doc": x.get("document"), "status": x.get("status")} for x in r.json()]
+    # 나무위키는 해외 서버(GitHub)에서 오는 요청을 막는다(403). 되면 쓰고, 안 되면 건너뛴다.
+    try:
+        r = requests.get("https://namu.wiki/sidebar.json", headers=UA, timeout=20)
+        r.raise_for_status()
+        return [{"doc": x.get("document"), "status": x.get("status")} for x in r.json()]
+    except Exception as e:
+        print("나무위키 최근 변경 실패:", type(e).__name__, file=sys.stderr)
+        return []
 
 
 def youtube_trending():
@@ -93,9 +98,9 @@ def main():
         mark = "★ " if seen_kw[x["kw"]] else ""
         noise = " _(뉴스성)_" if NOISE.search(x["kw"] + " ".join(x["news"])) else ""
         lines.append(f"- {mark}**{x['kw']}** {x['traffic']}{noise}" + (f" — {x['news'][0]}" if x["news"] else ""))
-    lines += ["", "## 나무위키 최근 변경 (처음 보는 문서 = 새 유행 후보)", ""]
-    for d in namu:
-        lines.append(f"- {'🆕 ' if d in new_docs else ''}{d['doc']}")
+    if namu:
+        lines += ["", "## 나무위키 최근 변경 (처음 보는 문서 = 새 유행 후보)", ""]
+        lines += [f"- {'🆕 ' if d in new_docs else ''}{d['doc']}" for d in namu]
     if yt:
         lines += ["", "## 유튜브 인기 급상승 (🆕 = 오늘 처음)", ""]
         lines += [f"- {'🆕 ' if t in new_yt else ''}{t}" for t in yt]
