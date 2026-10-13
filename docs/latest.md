@@ -1,17 +1,17 @@
-# 트렌드 스캔 2026-10-13 23:22
+# 트렌드 스캔 2026-10-14 07:18
 
 ## Google 급상승 검색어 (앱 소재 될 만한 것 먼저, ★=이틀 이상 연속)
 
-- ★ **bangladesh vs afghanistan** 100+ — Afghanistan Star Rahmat Shah Joins Virat Kohli In Elite Test Captains List
-- **pakistan vs sri lanka** 500+ — Deflated Sri Lanka look to prevent whitewash against dominant Pakistan
-- **사미자** 200+ — 사미자 &quot;죽을 때까지 쓸 돈 모았지만 백수 생활 걱정&quot;
-- **저축은행** 1000+ — OK저축은행 “해킹 공격 정황 포착…183명 고객 정보 유출 가능성”
-- **남지현** 500+ — ‘틈만나면,’ 남지현 “공부가 재밌었다”…퀴즈 프로그램 나갔다가 데뷔한 사연
-- **박해영** 200+ — &apos;모자무싸&apos; 박해영 등 창작자들 &quot;정당한 보상 위해 저작권법 개정해야&quot;
-- **엄태웅** 100+ — &quot;조폭이 소개해줬냐&quot; 묻자 &quot;제 친구가&quot;…조세호 아내 추정 댓글 - 머니투데이
-- **黄奇帆** 100+ — 五中全會前傳言四起 消息指黃奇帆被帶走
-- **대한민국 축구 국가대표팀** 2000+ — “손흥민 질투하냐” 빗발치는 비난에…축구협회 “도 넘었다” [지금뉴스]
-- **상속** 10000+ _(뉴스성)_ — 30년 상속세 공제 기준 그대로, 현실화 필요…임광현 청장 &quot;재경부 협의할 것&quot; - 머니투데이
+- ★ **두산에너 빌리티** 500+ — 두산에너빌러티 종목점검
+- **아파트** 2000+ — 볕 드는 수도권, 그늘 짙어진 지방… 분양시장 온도차 - 머니투데이
+- **청바지** 1000+ — 155cm 레이디 가가, 청바지에 부츠는 이렇게!
+- **schd** 200+ — SCHD’s Overlooked Schwab Sibling Turned $90,000 of Monthly Deposits Into $390,000
+- **mu** 2000+ — Samsung, SK hynix extend losses on CXMT concern
+- **viking vs bayern** 100+ — Viking 3-3 Bayern Munich: Harry Kane beats Lionel Messi record in Champions League
+- **신랑** 1000+ — &apos;서준맘&apos; 박세미 결혼 발표, 예비 신랑은 아이돌 오디션 출신?
+- **전북경찰청** 500+ _(뉴스성)_ — 전국 경찰서장 절반 교체…주요 보직에 향피제 전면 적용(종합2보)
+- **과태료** 1000+ _(뉴스성)_ — “군용차량 과태료 6억3000만원 미납…경찰은 납부 독촉, 국방부는 ‘나몰라라’”
+- **최민희** 200+ _(뉴스성)_ — 이재명 대통령 지지율 35.2%…대구·경북은 26.8%
 
 ---
 소재 판단 기준: 10대·초등·2030이 **지금 사거나 하는 것**(장난감·놀이·챌린지·먹거리)인가, 가상으로 체험하거나 계산하거나 기록할 수 있는가, 토스 금지 분야(금융·사행·의료·정치)가 아닌가.
