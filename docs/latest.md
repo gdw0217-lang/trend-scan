@@ -1,17 +1,17 @@
-# 트렌드 스캔 2026-10-25 23:25
+# 트렌드 스캔 2026-10-26 07:23
 
 ## Google 급상승 검색어 (앱 소재 될 만한 것 먼저, ★=이틀 이상 연속)
 
-- ★ **한국경제** 5000+ — 삼전닉스 빈자리 채울 종목 없다…한국 증시 발목 잡은 쏠림
-- ★ **관광** 200+ — 라디오 방송으로 일본에 충남 관광 매력 알린다···특별 방송 제작
-- **man utd vs bournemouth** 1000+ — Manchester United vs Bournemouth: Premier League preview, team news, stats &amp; head-to-head
-- **헐 시티 대 브렌트퍼드** 500+ — Hull City vs Brentford: Premier League preview, team news, stats &amp; head-to-head
-- **맨유 대 본머스** 10000+ — 맨유 대 본머스 축구 생중계 링크
-- **감우성** 200+ — [정수윤의 길을 걸으며] [51] ’100일의 거짓말’을 보는 마음
-- **벙커버스터** 500+ — “미 항공모함, 벙커버스터 보충”…이란 재타격 ‘카운트다운?’ [이런뉴스]
-- **노태 문** 1000+ — [사설] 재계 인사, &apos;시계제로&apos; 뚫고 활로 찾기를
-- **철도** 2000+ — 용인시 곳곳에서 온정의 손길 답지
-- **garudayaksa fc vs persib bandung** 500+ — Link Live Streaming Garudayaksa vs Persib: Haye-Klok Kena Rotasi Tolic, Uilliam Barros Andalan Maung, Tayang di TV
+- ★ **이다해** 1000+ — 이다해, &apos;중국풍&apos; 외모 지적에 &quot;조금씩 달라지는 내 모습 즐겨&quot;
+- **손지창** 200+ — 손지창, 26년째 이벤트 회사 운영…&quot;최대 연 매출 60억&quot;
+- **퇴직** 100+ — 입사 후도 퇴직 후도 차별? 도로공사 현장지원직 ‘이중고’
+- **장례** 200+ — “지금 여야는 원수 중의 원수”…故최형우 빈소서 나온 정치권 자성
+- **박서진** 200+ — 박서진, 발목 부상 숨기고 21km 마라톤 뛰었다..황영조도 감동한 &apos;완주&apos; (&apos;살림남&apos;)
+- **며느리** 2000+ — 시母 백옥자, 며느리 장정윤 생일에 &apos;다이아 목걸이&apos; 플렉스…가격 보고 &quot;어머머머&quot; 찐한숨 (&apos;광산김씨패밀리&apos;)
+- **조규성** 200+ — 미트윌란 조규성, 3경기 만에 득점포..시즌 5호골
+- **hd현대** 200+ — HD현대사이트솔루션, 무인굴착기 디지털 트윈 국책과제 선정
+- **barcelona đấu với real madrid** 200+ — Video bóng đá Barcelona - Real Madrid: Mbappe đánh sập Camp Nou (La Liga)
+- **김포시** 200+ — 김포시의회, 도로·복지·하수처리 현장 점검… “시민 체감도 향상 최우선”
 
 ---
 소재 판단 기준: 10대·초등·2030이 **지금 사거나 하는 것**(장난감·놀이·챌린지·먹거리)인가, 가상으로 체험하거나 계산하거나 기록할 수 있는가, 토스 금지 분야(금융·사행·의료·정치)가 아닌가.
