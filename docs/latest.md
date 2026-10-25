@@ -1,17 +1,17 @@
-# 트렌드 스캔 2026-10-25 18:22
+# 트렌드 스캔 2026-10-25 23:25
 
 ## Google 급상승 검색어 (앱 소재 될 만한 것 먼저, ★=이틀 이상 연속)
 
-- ★ **이현중** 100+ — &apos;한국농구 에이스&apos; 이현중, NBA 도전 위해 출국
-- **성남 fc 대 수원 삼성 블루윙즈 순위** 2000+ — K리그2 수원, 성남 꺾고 구단 신기록 7연승…1부 복귀 성큼
-- **england vs pakistan** 200+ — PCB to observe Breast Cancer Awareness Day during Pakistan v England ODI in Lahore
-- **최준희** 2000+ — 최준희, 결혼 후 故 최진실 묘소 방문…엄마 따라 ‘턱 괴기’ 뭉클
-- **충북청주 대 용인fc** 200+
-- **유죄** 200+ — 대법 &quot;음주 측정 전 입 헹굴 물 안 주면 유죄 증거 못 써&quot;
-- **pak vs eng** 200+ — Pakistan eyeing final, England need lift after Pindi capitulation
-- **태풍 참피(태풍 30호)** 500+ — 참피 대만 앞 &apos;한 바퀴 회전&apos;‥&apos;커진 피해&apos; 日 할퀴고 북진
-- **군대** 200+ — 군 상관에 &quot;X패고싶다&quot; 했다가 1계급 강등…법원 &quot;과도한 징계&quot;
-- **sk하이닉스** 2000+ _(뉴스성)_ — 주가만 거꾸로 간 삼전닉스…이번주 ‘반등의 시간’ 과연 올까
+- ★ **한국경제** 5000+ — 삼전닉스 빈자리 채울 종목 없다…한국 증시 발목 잡은 쏠림
+- ★ **관광** 200+ — 라디오 방송으로 일본에 충남 관광 매력 알린다···특별 방송 제작
+- **man utd vs bournemouth** 1000+ — Manchester United vs Bournemouth: Premier League preview, team news, stats &amp; head-to-head
+- **헐 시티 대 브렌트퍼드** 500+ — Hull City vs Brentford: Premier League preview, team news, stats &amp; head-to-head
+- **맨유 대 본머스** 10000+ — 맨유 대 본머스 축구 생중계 링크
+- **감우성** 200+ — [정수윤의 길을 걸으며] [51] ’100일의 거짓말’을 보는 마음
+- **벙커버스터** 500+ — “미 항공모함, 벙커버스터 보충”…이란 재타격 ‘카운트다운?’ [이런뉴스]
+- **노태 문** 1000+ — [사설] 재계 인사, &apos;시계제로&apos; 뚫고 활로 찾기를
+- **철도** 2000+ — 용인시 곳곳에서 온정의 손길 답지
+- **garudayaksa fc vs persib bandung** 500+ — Link Live Streaming Garudayaksa vs Persib: Haye-Klok Kena Rotasi Tolic, Uilliam Barros Andalan Maung, Tayang di TV
 
 ---
 소재 판단 기준: 10대·초등·2030이 **지금 사거나 하는 것**(장난감·놀이·챌린지·먹거리)인가, 가상으로 체험하거나 계산하거나 기록할 수 있는가, 토스 금지 분야(금융·사행·의료·정치)가 아닌가.
